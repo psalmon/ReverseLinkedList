@@ -1,3 +1,9 @@
+/*
+@author: Paul Salmon
+a linked list implementation, and a function to reverse it pointer by pointer.
+*/
+
+
 package reverseList;
 
 public class node {
